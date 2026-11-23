@@ -58,8 +58,8 @@ Projeto de automação de testes end-to-end desenvolvido com **Cypress** (Mocha:
 Pré-requisito: [Node.js](https://nodejs.org) instalado.
 
 ```bash
-git clone <URL-DO-SEU-REPOSITORIO>
-cd <nome-da-pasta>
+git clone https://github.com/Luh-Ramiro/cypress-saucedemo.git
+cd cypress-saucedemo
 npm install
 ```
 
