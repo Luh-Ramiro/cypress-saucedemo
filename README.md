@@ -72,5 +72,5 @@ npx cypress open
 Executar em modo headless:
 
 ```bash
-npx cypress run
+npx cypress run --browser chrome
 ```
